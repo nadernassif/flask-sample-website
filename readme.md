@@ -12,3 +12,6 @@ Points finished so far
 Points to be finished
 * connect the username/password to a database and secure it
 * setup user reg to add users to the DB
+
+
+login using username nader and password password
