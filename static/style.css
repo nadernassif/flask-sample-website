@@ -10,6 +10,31 @@
     background-color: #3498DB;
     padding: 50px;
     }
+    .alert {
+        padding: 20px;
+        background-color: #00ff0d;
+        color: black;
+      }
+    .error {
+        padding: 20px;
+        background-color: #ff0000;
+        color: white;
+      }  
+      .closebtn {
+        margin-left: 15px;
+        color: white;
+        font-weight: bold;
+        float: right;
+        font-size: 22px;
+        line-height: 20px;
+        cursor: pointer;
+        transition: 0.3s;
+      }
+      
+      .closebtn:hover {
+        color: black;
+      }
+
     .login {
     margin: 20px auto;
     width: 300px;
